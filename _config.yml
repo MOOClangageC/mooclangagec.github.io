@@ -1,5 +1,5 @@
-title: Leap Day theme
-description: Leap Day is a theme for GitHub Pages.
-show_downloads: true
+title: GitHub pour le MOOC Programmer en C
+description: [GitHub Page réalisé avec le thème Leap Day](http://jekyllthemes.org/themes/leap-day/).
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-leap-day
